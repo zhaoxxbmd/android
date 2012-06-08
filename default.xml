@@ -2,7 +2,7 @@
 <manifest>
 
   <remote name="aosp"
-           fetch="https://android.googlesource.com/" />
+           fetch="https://android.googlesource.com/a/" />
 
   <remote name="github"
            fetch="git://github.com/Evervolv/"
